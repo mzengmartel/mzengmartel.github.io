@@ -1,6 +1,6 @@
 <div align="center">
-<picture><img src="https://github.com/mzengmartel/main/upperborderright.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
+<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/upperborderright.gif" width = 300px align="right"></picture> 
+ <h3> 18 July 2023 </hr>
 </div>
 
 <p align="center">
