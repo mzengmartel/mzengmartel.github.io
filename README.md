@@ -14,12 +14,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<br><br><h2 align="center">Contact:</h2><br>
-
 <div align="center">
 
-💌 Contact ➖ contact.dzenis.h@gmail.com (for a general-purpose contact) <br>
-📩 Development ➖ developer.dzenis@icloud.com (for a specific development-related request)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Contact+Me!;"></a>
+</p>
+💌 Email ➖ mzengmartel@gmail.com <br>
+🫧 Phone ➖ +1-315-412-4260
 
 <p align="center">
 
