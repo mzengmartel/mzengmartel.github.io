@@ -1,20 +1,13 @@
 <div align="center">
-<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/upperborderright.gif" width = 300px align="right"></picture> 
- <h3> 18 July 2023 </hr>
-</div>
+<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/upperborderright.gif" width = 200px align="right"></picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/upperborderleft.gif" width = 200px align="left"></picture> 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello...+Welcome+to+my+Page+:);"></a>
-</p>
-
-<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello...+Welcome+to+my+Page+:);"
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=-Mae+Martel;"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/divisionborder.gif" width = 300px align="left"><picture>
 
-
-<div align="center">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Contact+Me!;"></a>
