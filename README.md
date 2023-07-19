@@ -9,9 +9,7 @@
 <picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/divisionborder.gif" width = 300px align="left"><picture>
 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Contact+Me!;"></a>
-</p>
+
 💌 Email ➖ mzengmartel@gmail.com <br>
 🫧 Phone ➖ +1-315-412-4260
 
