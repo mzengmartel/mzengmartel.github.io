@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=-Mae+Martel;"></a>
 </p>
 
-<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/divisionborder.gif" width = 300px align="left"><picture>
+<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/divisionborder.gif" width = 300px align="center"><picture>
 
 
 
