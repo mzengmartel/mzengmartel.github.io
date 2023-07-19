@@ -12,7 +12,6 @@
 
 💌 Email ➖ mzengmartel@gmail.com <br>
 🫧 Phone ➖ +1-315-412-4260
-
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -30,9 +29,7 @@
 			
 </p>
 
-</div><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<picture><img src="https://github.com/mzengmartel/mzengmartel.github.io/blob/main/divisionborder.gif" width = 300px align="center"><picture>
 
 <br><h2 align="center">Skills:</h2><br>
 
