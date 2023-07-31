@@ -28,11 +28,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 2rem; }
 
-.publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
+.publications h1 { color: var(--global-theme-color); font-size: 1.5rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
 
-.publications h2 span { font-size: 1.5rem; }
+.publications h2 span { font-size: 1.4rem; }
 
 .publications h2.year { color: #e8e8e8; border-top: 1px solid #e8e8e8; margin-top: 2rem; margin-bottom: 0rem; text-align: right; }
 
