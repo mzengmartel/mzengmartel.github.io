@@ -1,14 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
-body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif; color: #3f302b; font-weight: 400; margin: 0; }
+body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif; color: #595959; font-weight: 400; margin: 0; }
 
 .pub-row { display: flex; align-items: center; }
 
-.social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #65a46e !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 1rem; }
+.social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #043361 !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 1rem; }
 
-@media (prefers-color-scheme: dark) { .social-icons a { color: #65a46e !important; } }
+@media (prefers-color-scheme: dark) { .social-icons a { color: #3eb7f0 !important; } }
 .social-icons a:last-child { margin-right: 0; }
 
 .social-icons a:hover { background-color: white; color: black; transform: scale(1.2); }
@@ -24,25 +22,25 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .icon-button:hover span { width: 3.6rem; height: 3.6rem; border-radius: 3.6rem; margin: -1.8rem; }
 
-.twitter span { background-color: #f686bc; }
+.twitter span { background-color: #4099ff; }
 
-.facebook span { background-color: #f686bc; }
+.facebook span { background-color: #4286f4; }
 
-.linkedin span { background-color: #f686bc; }
+.linkedin span { background-color: #0077B5; }
 
 .github span { background-color: #000; }
 
-email { font-size: 14px; font-family: "Bebas Neue"; }
+email { font-size: 14px; font-family: "Ubuntu Mono"; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
-.icon-button .icon-twitter { color: #f686bc; }
+.icon-button .icon-twitter { color: #4099ff; }
 
-.icon-button .icon-facebook { color: #f686bc; }
+.icon-button .icon-facebook { color: #4286f4; }
 
 .icon-button .icon-github { color: #000; }
 
-.icon-button .icon-linkedin { color: #f686bc; }
+.icon-button .icon-linkedin { color: #0077B5; }
 
 .icon-button:hover .icon-twitter, .icon-button:hover .icon-facebook, .icon-button:hover .icon-github, .icon-button:hover .icon-linkedin { color: white; }
 
@@ -73,25 +71,25 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
 
-h3, h4, h5, h6 { font-weight: 600; color: #3c4d40; margin: 0 0 20px; }
+h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h1 { font-weight: 500; color: #037b3b; margin: 0 0 20px; }
+h1 { font-weight: 500; color: #043361; margin: 0 0 20px; }
 
-h2 { color: #48d087; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
+h2 { color: #043361; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
-@media (prefers-color-scheme: dark) { h1, h3, h4, h5, h6 { color: #739c7b; }
-  h2 { color: #739c7b; } }
+@media (prefers-color-scheme: dark) { h1, h3, h4, h5, h6 { color: #3eb7f0; }
+  h2 { color: #3eb7f0; } }
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
 
 h1 { font-size: 28px; }
 
-a { color: #6b8b70; text-decoration: none; }
+a { color: #39c; text-decoration: none; }
 
-a:hover { color: #6b8b70; }
+a:hover { color: #069; }
 
-@media (prefers-color-scheme: dark) { a { color: #6b8b70; } }
+@media (prefers-color-scheme: dark) { a { color: #3eb7f0; } }
 a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
@@ -112,8 +110,8 @@ dt { color: #444; font-weight: 500; }
 
 th { color: #444; }
 
-@media (prefers-color-scheme: dark) { th { color: #9ed6a6; }
-  dt { color: #9ed6a6; } }
+@media (prefers-color-scheme: dark) { th { color: #3eb7f0; }
+  dt { color: #3eb7f0; } }
 img { max-width: 100%; }
 
 header { width: 232px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 4.0em; text-align: center; }
