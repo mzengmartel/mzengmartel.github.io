@@ -55,7 +55,7 @@ education { font-weight: 500; font-size: 115%; }
 papertitle { font-weight: 600; font-size: 100%; }
 
 @media (prefers-color-scheme: dark) { body { background-color: #ffffff; color: #000000; }
-  autocolor { color: #dadbdf; }
+  autocolor { color: #000000; }
   lightonly { visibility: visible; }
   darkonly { visibility: hidden; }
   papertitle { color: #d2a23c; } }
