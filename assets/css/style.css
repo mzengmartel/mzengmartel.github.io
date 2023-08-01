@@ -130,9 +130,9 @@ header ul a:hover { color: #e5b831; }
 
 header ul a:active { background-color: #f0f0f0; }
 
-strong { color: #222; font-weight: 500; }
+strong { color: #000000; font-weight: 500; }
 
-@media (prefers-color-scheme: dark) { strong { color: #eeeff0; } }
+@media (prefers-color-scheme: dark) { strong { color: #000000; } }
 header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
