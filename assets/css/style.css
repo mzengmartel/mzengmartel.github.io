@@ -58,7 +58,7 @@ papertitle { font-weight: 600; font-size: 100%; }
   autocolor { color: #dadbdf; }
   lightonly { visibility: visible; }
   darkonly { visibility: hidden; }
-  papertitle { color: #eeeff0; } }
+  papertitle { color: #d2a23c; } }
 .image { border-radius: 0.35em; border: 0; display: inline-block; position: relative; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
@@ -126,7 +126,7 @@ header li:last-child a { border-radius: 0 5px 5px 0; }
 
 header ul a { line-height: 1; font-size: 11px; color: #c49427; display: block; text-align: center; padding-top: 6px; height: 34px; }
 
-header ul a:hover { color: #999; }
+header ul a:hover { color: #e5b831; }
 
 header ul a:active { background-color: #f0f0f0; }
 
